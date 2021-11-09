@@ -1,3 +1,4 @@
+package core;
 import static java.lang.Math.min;
 import java.util.Arrays;
 
